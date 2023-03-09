@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Inverter String</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Inverter String</h1>
+      <label for="string">Digite uma palavra:</label>
+      <input type="text" id="string" name="string">
+      <button id="botao">Inverter</button>
+      <p id="resultado"></p>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
